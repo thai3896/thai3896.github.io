@@ -30,11 +30,6 @@
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/thai3896/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/thai3896",
-        "className": "fa fa-github"
       }
     ]
   },
